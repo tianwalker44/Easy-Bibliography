@@ -114,8 +114,12 @@ knitr::include_graphics("addon.png")
 
 ---
 
-> naviagte to our downloads folder and open the file you downloaded from github
-> You will see the add on appear and Zotero will ask to restart
+class: center, middle
+
+
+> Naviagte to your downloads folder and open the file you downloaded from github
+> and you will see the add on appear. 
+Zotero will ask to restart
 
 ### Re-start Zotero
 
@@ -143,3 +147,20 @@ knitr::include_graphics("setup.png")
 knitr::include_graphics("zpref.png")
 ```
 
+---
+### Last Step! 
+
+##Tell R where to use your exported Zotero library! 
+
+```{r echo=FALSE, out.width="100%"}
+knitr::include_graphics("yaml.png")
+```
+---
+
+## Excellent videos that walk you through these steps:
+
+https://www.youtube.com/watch?v=GAVXVkcpbG0&list=PL_7YN1lufuNjGXysm6PmLqgjTqh0oixRx&index=1&t=307s
+
+https://www.youtube.com/watch?v=Nm5BsfMfO9M&list=PL_7YN1lufuNjGXysm6PmLqgjTqh0oixRx&index=3
+
+## Thank you!
